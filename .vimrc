@@ -2,6 +2,7 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 
 set number
+set autoindent
 "Fold commands"
 nnoremap <space> za
 set foldmethod=syntax
